@@ -42,9 +42,5 @@ This API manages movie-related notes and tags, allowing users to create, retriev
 
 This project is above the MIT license.
 
-## link
-
-<a href="https://gustavozonta.github.io/GitFav/" target="_blank"> GitFav </a>
-
 ---
 <p align="center"> Made  ♥  by Gustavo Zonta</p>
